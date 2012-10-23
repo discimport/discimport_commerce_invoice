@@ -1,0 +1,7 @@
+name = Discimport Commerce Invoice
+description = Adds functionality for invoices.
+core = 7.x
+package = Discimport
+version = 7.x-0.1
+project = discimport_commerce_invoice
+
